@@ -1,0 +1,2 @@
+# Drug-Classification-Using-Machine-Learning-algorithm
+XYZ Pharma company wanted to build machine learning model to predict which drug type is good for the patient based on the patient details  In this project, U have used following classsification algorithm  KNN Algorithm  Decision Tree Classification  Support Vector Machine  Random Forest  Gaussian Naive Bayes  Stochastic Gradient Descent  Linear SVC
